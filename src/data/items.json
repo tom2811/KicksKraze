@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Air Jordan 1",
+    "price": 416.0,
+    "colorway": "Chicago Lost And Found",
+    "imgUrl": "/images/Jordan-1-lost-and-found.png"
+  },
+  {
+    "id": 2,
+    "name": "Air Jordan 4",
+    "price": 392.0,
+    "colorway": "Motorsports Alternate",
+    "imgUrl": "/images/Air-Jordan-4.png"
+  },
+  {
+    "id": 3,
+    "name": "Air Jordan 7",
+    "price": 205.0,
+    "colorway": "Pantone",
+    "imgUrl": "/images/Air-Jordan-7.png"
+  },
+  {
+    "id": 4,
+    "name": "Air Jordan 13",
+    "price": 200.0,
+    "colorway": "Chutney",
+    "imgUrl": "/images/Air-Jordan-13.png"
+  },
+  {
+    "id": 5,
+    "name": "ASICS GT-2160",
+    "price": 155.0,
+    "colorway": "White Shamrock Green",
+    "imgUrl": "/images/ASICS-GT-2160-White-Shamrock-Green.png"
+  },
+  {
+    "id": 6,
+    "name": "Louis Vuitton Trainer",
+    "price": 796.0,
+    "colorway": "Transparent",
+    "imgUrl": "/images/Louis-Vuitton-Trainer.png"
+  },
+  {
+    "id": 7,
+    "name": "New Balance 2002r",
+    "price": 129.0,
+    "colorway": "Protection Pack Rain Cloud",
+    "imgUrl": "/images/New-Balance-2002r.png"
+  }
+]
+
